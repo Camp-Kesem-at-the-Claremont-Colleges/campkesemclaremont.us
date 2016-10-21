@@ -1,6 +1,6 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+Camp Kesem at the Claremont Colleges Newsletter - Jekyll Version
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+Using #Clean by StartBootstrap - The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
 ###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
 
@@ -22,3 +22,6 @@ You can run `jekyll serve --watch` and `grunt watch` at the same time to watch f
 ## Support
 
 Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+=======
+# campkesemclaremont.us
+Camp Kesem at the Claremont Colleges Newsletter
