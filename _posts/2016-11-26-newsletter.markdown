@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "November 2016 Newsletter!"
-subtitle:   "Meet our Coord Board, see the new campsite for Summer 2017, and more!"
+subtitle:   "Meet our Coordination Team, see the new campsite for Summer 2017, and more!"
 date:       2016-11-26 12:00:00
 author:     "Cookie Monster"
 header-img: "img/november2016/post-bg-november-2016.jpg"
