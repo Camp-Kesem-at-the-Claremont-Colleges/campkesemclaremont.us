@@ -60,7 +60,7 @@ hr.small {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 800;
   letter-spacing: 1px;
 }
@@ -411,4 +411,42 @@ body {
     padding: 25px;
     padding-top: 0;
     border: 15px solid #a4d55d;
+}
+.blue-box {
+    border-radius: 25px;
+    padding: 25px;
+    padding-top: 0;
+    border: 15px solid #008fbe;
+}
+.donate-button {
+    padding: 15px;
+    background-color: #a4d55d;
+    color: #008fbe;
+    font-family: "Helvetica Neue";
+    text-decoration: underline;
+    font-weight: 600;
+}
+div.icons {
+    margin-left: 2em;
+}
+.icons i {
+    padding: 25px;
+    border-radius: 25px;
+    font-size: 30px;
+    background-color: #008fbe;
+    color: #fff;
+}
+.icons i:hover {
+    background-color: #a4d55d;
+}
+.margin-b-20 {
+    margin-bottom: 20px;
+}
+div.no-list-style div ul {
+    list-style: none;
+    text-align: center;
+    padding-left: 0;
+}
+div.no-list-style div h4 {
+    text-align: center;
 }
