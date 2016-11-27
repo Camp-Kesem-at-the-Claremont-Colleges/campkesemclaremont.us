@@ -8,14 +8,14 @@ header-img: "img/november2016/post-bg-november-2016.jpg"
 ---
 
 <h1 style="text-align: center;">Happy Holidays from Camp Kesem at the Claremont Colleges!</h1>
-<p style="text-align: center;">We hope you all are as excited as us to get Camp Kesem up and running for Summer 2017! We've organized a new group of enthusiastic college students to make camp even better than last year!</p>
+<p style="text-align: center;">We hope you all are just as excited as us to get Camp Kesem up and running for <strong>our second camp</strong> in Summer 2017! We've organized a new group of enthusiastic college students to make camp even better than the last!</p>
 
 <div class="green-box">
     <h2 class="section-heading">Save The Dates!!</h2>
     <div class="row">
         <div class="col-md-6">
             <h4>#GivingTuesday - November 29th</h4>
-            <p>Help support Camp Kesem at the Claremont Colleges during the national day of giving so we can fundraise money for camp! <a href="https://donate.kesem.org/fundraise?fcid=766838">Share or donate to our page!</a></p>
+            <p>Help support Camp Kesem at the Claremont Colleges during the national day of giving so we can fundraise money for camp!<a href="https://donate.kesem.org/fundraise?fcid=766838">Share or donate to our page!</a> or, <a href="https://donate.kesem.org/fundraise?fcid=766838">create your own donation page</a> to help us fundraise!</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/fLcAnQ3LNzM" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-md-6 img-center">
@@ -29,7 +29,7 @@ header-img: "img/november2016/post-bg-november-2016.jpg"
     </div>
 </div>
 <div class="margin-b-20">
-    <h2 class="section-heading">Meet our Coord Board for 2016-2017!</h2>
+    <h2 class="section-heading">Meet our Coordination Board for 2016-2017!</h2>
     <img src="/img/november2016/coordboard.jpg">
     <span class="caption text-muted">Top: Stitch, Pogo, Rainy. Bottom: Carebear, Papaya, Cookie Monster</span>
     <div class="row no-list-style">
@@ -100,5 +100,5 @@ header-img: "img/november2016/post-bg-november-2016.jpg"
 <div class="green-box">
     <h2 class="section-heading">Introducing the Campsite for 2017!</h2>
     <img src="/img/november2016/campeaton.jpg">
-    <p>We're arranging to have our next camp at Camp Eaton! The facilities are amazing and there's a lot of activities offered at this location! Stay tuned for more information!</p>
+    <p>We're arranging to have our next camp at Camp Eaton! The facilities are amazing and there's a lot of fun and exciting activities offered at this location! Stay tuned for more information!</p>
 </div>
