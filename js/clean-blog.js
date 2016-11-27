@@ -1044,13 +1044,18 @@ jQuery(document).ready(function($) {
                     //if scrolling up...
                     if (currentTop > 0 && $('.navbar-custom').hasClass('is-fixed')) {
                         $('.navbar-custom').addClass('is-visible');
+                        $('.navbar-brand img').attr('src', '/img/logo-black.png').fadeIn(50);
                     } else {
                         $('.navbar-custom').removeClass('is-visible is-fixed');
+                        $('.navbar-brand img').attr('src', '/img/logo.png').fadeIn(50);
                     }
                 } else {
                     //if scrolling down...
                     $('.navbar-custom').removeClass('is-visible');
-                    if (currentTop > headerHeight && !$('.navbar-custom').hasClass('is-fixed')) $('.navbar-custom').addClass('is-fixed');
+                    if (currentTop > headerHeight && !$('.navbar-custom').hasClass('is-fixed')) {
+                        $('.navbar-brand img').attr('src', '/img/logo.png').fadeIn(50);
+                        $('.navbar-custom').addClass('is-fixed');
+                    }
                 }
                 this.previousTop = currentTop;
             });

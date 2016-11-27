@@ -177,7 +177,7 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 50px;
   }
 }
 .intro-header .post-heading h1 {
@@ -253,6 +253,7 @@ hr.small {
   font-size: 36px;
   margin-top: 60px;
   font-weight: 700;
+  color: #008fbe;
 }
 .caption {
   text-align: center;
@@ -400,4 +401,14 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+.navbar-brand img {
+    max-width: 50%;
+    margin-top: -10px;
+}
+.green-box {
+    border-radius: 25px;
+    padding: 25px;
+    padding-top: 0;
+    border: 15px solid #a4d55d;
 }
