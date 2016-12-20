@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "December 2016 Newsletter!"
+title:      "December 2016 Newsletter DRAFT!"
 subtitle:   "Returning Camper Applications LIVE, Giving Tuesday Success, Fall Reunion, and more!"
 date:       2016-12-18 12:00:00
 author:     "Cookie Monster and Jelly Bean"
@@ -39,7 +39,8 @@ header-img: "img/newsletter/december2016/december-cover.jpg"
     <div class="col-md-7 green-box">
         <h2 class="section-heading">Help us fundraise!</h2>
         <div class="row">
-                <img src="/img/newsletter/december2016/fall-reunion2.JPG">
+                <img src="/img/newsletter/december2016/boba-fundraise.jpg">
+                <span class="caption text-muted">From left to right: Scuba, Pogo, and Stitch at a #GivingTuesday fundraiser!</span>
         </div>
         <p>We need your help! We've booked an incredible campsite and now <strong>we need your support</strong> to meet our fundraising goal! 
         We have to reach $30,000 before camp starts. Help us get there by <strong>sharing our page</strong> with family and friends!
