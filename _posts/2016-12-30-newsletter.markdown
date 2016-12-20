@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "December 2016 Newsletter DRAFT!"
+title:      "December 2016 Newsletter!"
 subtitle:   "Returning Camper Applications LIVE, Giving Tuesday Success, Fall Reunion, and more!"
-date:       2016-12-18 12:00:00
+date:       2016-12-31 12:00:00
 author:     "Cookie Monster and Jelly Bean"
 header-img: "img/newsletter/december2016/december-cover.jpg"
 ---
