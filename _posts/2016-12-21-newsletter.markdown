@@ -79,7 +79,7 @@ header-img: "/img/newsletter/december2016/december-cover.jpg"
     <h2 class="section-heading">Welcome New Members to our Kesem Family!</h2>
     <h4 class="green-heading section-heading-h4" style="font-weight: 800;">New AMP and Volunteer Coordinators!</h4>
     <div class="col-md-6">
-        <img src="/img/newsletter/december2016/jellybean.jpg">
+        <img src="/img/newsletter/december2016/jellybean-headshot.jpg">
         <span class="caption text-muted">Jellybean - Alumni, Marketing, PR</span>
     </div>
     <div class="col-md-6">
