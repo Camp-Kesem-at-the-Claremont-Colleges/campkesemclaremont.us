@@ -2,9 +2,9 @@
 layout:     post
 title:      "December 2016 Newsletter!"
 subtitle:   "Returning Camper Applications LIVE, Giving Tuesday Success, Fall Reunion, and more!"
-date:       2016-12-30 12:00:00
-author:     "Cookie Monster and Jelly Bean"
-header-img: "img/newsletter/december2016/december-cover.jpg"
+date:       2016-12-21 12:00:00
+author:     "Cookie Monster and Jellybean"
+header-img: "/img/newsletter/december2016/december-cover.jpg"
 ---
 <style>
 .save-date-span {
@@ -80,13 +80,13 @@ header-img: "img/newsletter/december2016/december-cover.jpg"
     <h4 class="green-heading section-heading-h4" style="font-weight: 800;">New AMP and Volunteer Coordinators!</h4>
     <div class="col-md-6">
         <img src="/img/newsletter/december2016/jellybean.jpg">
-        <span class="caption text-muted">Jelly Bean - Alumni, Marketing, PR</span>
+        <span class="caption text-muted">Jellybean - Alumni, Marketing, PR</span>
     </div>
     <div class="col-md-6">
         <img src="/img/newsletter/december2016/poofy.jpg">
         <span class="caption text-muted">Poofy - Volunteer</span>
     </div>
-    <p>Please give a warm welcome to two new members to our coordination team: <strong>Poofy (Co-Volunteer Coordinator)</strong> and <strong>Jelly Bean (Co-AMP Coordinator)</strong>!</p>
+    <p>Please give a warm welcome to two new members to our coordination team: <strong>Poofy (Co-Volunteer Coordinator)</strong> and <strong>Jellybean (Co-AMP Coordinator)</strong>!</p>
     <p>We'd also like to welcome two new advisory board members: <strong>Professor Amy Kind</strong> and <strong>Stevella Lopez</strong>! Professor Kind is a phenomenal philosophy professor at Claremont Mckenna College and heard about Camp Kesem from one of her students! Stevella Lopez is the mother of three of our amazing campers, Pepper, Buggy, and John Cena.</p>
     <p>We are super excited to have all of them on the team and with their help, camp will be 100x more fun!</p>
     <h4 class="section-heading-h4">Join the Advisory Board!</h4>

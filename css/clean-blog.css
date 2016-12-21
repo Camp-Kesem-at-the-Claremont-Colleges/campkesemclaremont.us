@@ -450,3 +450,19 @@ div.no-list-style div ul {
 div.no-list-style div h4 {
     text-align: center;
 }
+.green-btn {
+    background-color: #a4d55d;
+    border-color: #a4d55d;
+}
+.green-btn:hover {
+    background-color:#008fbe;
+    border-color: #008fbe;
+}
+.blue-btn {
+    background-color:#008fbe;
+    border-color: #008fbe;
+}
+.blue-btn:hover {
+    background-color: #a4d55d;
+    border-color: #a4d55d;
+}
