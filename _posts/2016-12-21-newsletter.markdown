@@ -4,7 +4,7 @@ title:      "December 2016 Newsletter!"
 subtitle:   "Returning Camper Applications LIVE, Giving Tuesday Success, Fall Reunion, and more!"
 date:       2016-12-21 12:00:00
 author:     "Cookie Monster and Jellybean"
-header-img: "/img/newsletter/december2016/december-cover.jpg"
+header-img: "img/newsletter/december2016/december-cover.jpg"
 ---
 <style>
 .save-date-span {
