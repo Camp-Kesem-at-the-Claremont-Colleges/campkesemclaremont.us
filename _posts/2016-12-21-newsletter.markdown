@@ -119,7 +119,7 @@ header-img: "/img/newsletter/december2016/december-cover.jpg"
     </div>
 </div>
 <div class="blue-box">
-<h2 class="green-heading section-heading">Call On Kesem!</h2>
-<p>We are excited to tell you all about a program we offer to help campers and counselors stay in contact throughout the year! While camp may only be one week, we have Call on Kesem in order to provide support to our campers year-round. These programs involve birthday cards, Welcome to Kesem Snail Mail, reunions, and grief support.</p>
-<p>We really look forward to seeing more of our Camp families outside of the week of camp. If you have any questions or concerns, please feel free to contact us at <a href="mailto:claremont.outreach@campkesem.org">claremont.outreach@campkesem.org</a>.</p>
+    <h2 class="green-heading section-heading">Call On Kesem!</h2>
+    <p>We are excited to tell you all about a program we offer to help campers and counselors stay in contact throughout the year! While camp may only be one week, we have Call on Kesem in order to provide support to our campers year-round. These programs involve birthday cards, Welcome to Kesem Snail Mail, reunions, and grief support.</p>
+    <p>We really look forward to seeing more of our Camp families outside of the week of camp. If you have any questions or concerns, please feel free to contact us at <a href="mailto:claremont.outreach@campkesem.org">claremont.outreach@campkesem.org</a>.</p>
 </div>
