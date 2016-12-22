@@ -83,7 +83,7 @@ header-img: "img/newsletter/december2016/december-cover.jpg"
         <span class="caption text-muted">Jellybean - Alumni, Marketing, PR</span>
     </div>
     <div class="col-md-6">
-        <img src="/img/newsletter/december2016/poofy.jpg">
+        <img src="/img/newsletter/december2016/poofy-headshot.jpg">
         <span class="caption text-muted">Poofy - Volunteer</span>
     </div>
     <p>Please give a warm welcome to two new members to our coordination team: <strong>Poofy (Co-Volunteer Coordinator)</strong> and <strong>Jellybean (Co-AMP Coordinator)</strong>!</p>
@@ -109,7 +109,7 @@ header-img: "img/newsletter/december2016/december-cover.jpg"
             </p>
             <a target="_blank" href="https://campscui.active.com/orgs/CampKesem#/selectSessions/1717902"><button class="blue-btn btn btn-primary">Start the application here</button></a>
             
-            <img style="margin-top: 10px;" src="/img/newsletter/december2016/huggle-monster-sign.JPG">
+            <img style="margin-top: 10px; display: inline-block;" src="/img/newsletter/december2016/huggle-monster-sign.JPG">
         </div>
         <div class="col-md-8 col-md-offset-2 img-center date">
             <h4>Regular Applications - January 15th</h4>
