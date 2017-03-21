@@ -24,6 +24,9 @@ header-img: "img/newsletter/spring2017/cover.jpg"
         background-color: #a4d55d;
         border-color: #a4d55d;
     }
+    .margins {
+        margin-bottom: 25px;
+    }
 </style>
 <h1 style="text-align: center;">Wishing You a Happy and Healthy Spring from Camp Kesem at the Claremont Colleges!</h1>
 <p style="text-align: center;">With spring in the air, camp is almost around the corner! We've hired even more coordinators and counselors, and everyone has put in a lot of effort toward making camp 100x better.</p>
@@ -34,7 +37,6 @@ header-img: "img/newsletter/spring2017/cover.jpg"
         <div class="col-md-10 col-md-offset-1">
             <h4>Spring Reunion - March 26th</h4>
             <p>Spring Reunion is around the corner and Scuba has planned some great activities for the kids! Check out the tentative list below!</p>
-            <div class="col-md-6">
                 <ul>
                     <li>Getting to Know You Bingo</li>
                     <li>Friends Like Me</li>
@@ -44,11 +46,7 @@ header-img: "img/newsletter/spring2017/cover.jpg"
                     <li>Camouflage</li>
                     <li>Art Table!</li>
                 </ul>
-            </div>
-            <div class="col-md-6" style="line-height: 14px;">
-                <span style="font-size:14px; line-height:10px;">Location: College Park 100 S College Ave, Claremont</span>
-               <a href="https://www.google.com/maps/place/Claremont+Pooch+Park/@34.0931706,-117.7144969,17.06z/data=!4m8!1m2!2m1!1sCollege+Park+100+S+college+ave+claremont!3m4!1s0x80c331eb288ada8b:0x9cd51501334173cd!8m2!3d34.0929159!4d-117.7141221" target="_blank"><img src="/img/newsletter/spring2017/springreunion.jpg"></a>
-            </div>
+            <p>If you need more information, or an evite to the event, please contact <a href="mailto:claremont.outreach@campkesem.org">claremont.outreach@campkesem.org</a>.</p>
         </div>
     </div>
 </div>
@@ -57,7 +55,7 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <h4>Disneyland Giveaway</h4>
-            <p>Papaya and Carrots have organized a fantastic Disneyland Giveway! They're giving away two tickets to Disneyland! If you're interested in participating, donate now or contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> for more information.</p>
+            <p>Papaya and Carrots have organized a fantastic Disneyland Giveway! They're giving away two tickets to Disneyland! If you're interested in participating, donate now <strong>and mention "Disneyland Giveaway"</strong> in your donation note, or contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> for more information.</p>
             <div class="text-align" style="margin-bottom: 25px;"><a target="_blank" href="https://donate.kesem.org/fundraise?fcid=766838"><button class="blue-btn btn btn-primary">Donate Now!</button></a></div>
             <img style="margin-bottom: 25px;" src="/img/newsletter/spring2017/disneyland-giveaway.jpg">
         </div>
@@ -84,26 +82,28 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     <span class="caption text-muted">Back: Glub, Cookie Monster, Carrots, Poofy, Scuba <br> Front: Jellybean, Pogo, Stitch, Carebear, Papaya <br> Not Pictured: Rainy</span>
 </div>
 
-<div class="row">
-    <div class="col-md-8 left-margin blue-box">
+<div class="row margins">
+    <div class="col-md-8 col-md-offset-2 left-margin blue-box">
         <h2 class="section-heading">We've fundraised <span style="font-weight: 800; color: #a4d55d; font-size: 45px; text-decoration: underline;">$11,525</span> so far!</h2>
         <p>Everyone on the Coordination Board and Counselors have been raising money and holding on-campus fundraisers to make camp happen. We're super excited to announce we've raised over $11,000! But we're still short of $30,000. Help us fundraise by setting up a classy page and sending it to friends and family!</p>
         <img src="/img/newsletter/spring2017/thermometer3.gif">
         <div class="text-align"><h4 class="section-heading-h4">Create Your Own Donation Page!</h4></div>
         <p>You can also help by <strong>creating your own donation page</strong>!
-        Simply click on <a href="https://donate.kesem.org/events/friends-camp-kesem-at-claremont-colleges-fy-2017/e93166">this fundraising link</a> and click <strong>"Become a Fundraiser"</strong>. You will then be given instructions for completing your donation page profile which can be shared with friends and family!
+        Simply click on <a href="https://donate.kesem.org/events/friends-camp-kesem-at-claremont-colleges-fy-2017/e93166">this fundraising link</a> and click <strong>"Become a Fundraiser"</strong>. You will then be given instructions for completing your donation page profile which can be shared with friends and family! Contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> if you would like assistance!
         </p>
     </div>
-    <div class="col-md-4 green-box">
-        <h2 class="section-heading">Join Advisory Board!</h2>
-        <div class="row">
+</div>
+<div class="col-md-12 green-box margins">
+    <h2 class="section-heading">Join Advisory Board!</h2>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
                 <img src="/img/newsletter/november2016/comet-advisory-board.jpg">
         </div>
-        <p>We're still looking for advisory board members to fundraise and plan camp with us! If you're interested in joining the Advisory Board, feel free to <a href="mailto:claremont@campkesem.org">contact us</a>.</p>
     </div>
+    <p> Each year Camp Kesem at the Claremont Colleges relies on our Advisory Board to help us recruit campers and volunteers, raise funds, serve as Kesem ambassadors in the local community. Our Advisory Board members work in fields including philanthropy, medicine, education, youth development, and business. If you are interested in learning more about Advisory Board opportunities, please contact our Directors at <a href="claremont@campkesem.org">claremont@campkesem.org</a>.</p>
 </div>
 <h2 class="section-heading">We are Looking for Sponsorships!</h2>
-<p>Camp Kesem at the Claremont Colleges is currently looking for sponsors! If you have any kind of partnership in mind, please send us a message at <a href="mailto:claremont@campkesem.org">claremont@campkesem.org</a>. We look forward to hearing from you!</p>
+<p>Camp Kesem at the Claremont Colleges is currently looking for sponsors to donate or help fundraise! If you have any kind of partnership in mind, please send us a message at <a href="mailto:claremont@campkesem.org">claremont@campkesem.org</a>. We look forward to hearing from you!</p>
 <div class="green-box">
     <h2 class="section-heading">Tentative Camp Schedule!</h2>
     <img src="/img/newsletter/november2016/campeaton.jpg">
