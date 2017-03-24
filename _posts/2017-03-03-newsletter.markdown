@@ -55,7 +55,7 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <h4>Disneyland Giveaway</h4>
-            <p>Papaya and Carrots have organized a fantastic Disneyland Giveway! They're giving away two tickets to Disneyland (tickets are valid for Saturday, April 1st)! All participants receive a frienship bracelet! If you're interested in participating, donate now <strong>and mention "Disneyland Giveaway"</strong> in your donation note, or contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> for more information.</p>
+            <p>Papaya and Carrots have organized a fantastic Disneyland Giveway! They're giving away two tickets to Disneyland (tickets are valid for Saturday, April 1st)! Prizes can be picked up on <strong>March 29th</strong> in Vita Nova on Scripps Campus. Winners will be announced on <strong>March 28th at 9pm</strong>. All participants receive a frienship bracelet! If you're interested in participating, donate now <strong>and mention "Disneyland Giveaway"</strong> in your donation note, or contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> for more information.</p>
             <div class="text-align" style="margin-bottom: 25px;"><a target="_blank" href="https://donate.kesem.org/fundraise?fcid=766838"><button class="blue-btn btn btn-primary">Donate Now!</button></a></div>
             <img style="margin-bottom: 25px;" src="/img/newsletter/spring2017/disneyland-giveaway.jpg">
         </div>
