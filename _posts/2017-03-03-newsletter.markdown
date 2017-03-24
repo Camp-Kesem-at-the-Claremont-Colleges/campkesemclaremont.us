@@ -29,14 +29,14 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     }
 </style>
 <h1 style="text-align: center;">Wishing You a Happy and Healthy Spring from Camp Kesem at the Claremont Colleges!</h1>
-<p style="text-align: center;">With spring in the air, camp is almost around the corner! We've hired even more coordinators and counselors, and everyone has put in a lot of effort toward making camp 100x better.</p>
+<p style="text-align: center;">With spring in the air, camp is almost around the corner! We've found even more coordinators and counselors, and everyone has put in a lot of effort toward making camp 100x better.</p>
 
 <div class="green-box space">
     <h2 class="section-heading">Upcoming Events!!</h2>
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <h4>Spring Reunion - March 26th</h4>
-            <p>Spring Reunion is around the corner and Scuba has planned some great activities for the kids! Check out the tentative list below!</p>
+            <p>Spring Reunion is around the corner and Scuba has planned some great activities for the kids! Check out the tentative list below! There will also be an important info session for parents.</p>
                 <ul>
                     <li>Getting to Know You Bingo</li>
                     <li>Friends Like Me</li>
@@ -55,7 +55,7 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <h4>Disneyland Giveaway</h4>
-            <p>Papaya and Carrots have organized a fantastic Disneyland Giveway! They're giving away two tickets to Disneyland! If you're interested in participating, donate now <strong>and mention "Disneyland Giveaway"</strong> in your donation note, or contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> for more information.</p>
+            <p>Papaya and Carrots have organized a fantastic Disneyland Giveway! They're giving away two tickets to Disneyland (tickets are valid for Saturday, April 1st)! All participants receive a frienship bracelet! If you're interested in participating, donate now <strong>and mention "Disneyland Giveaway"</strong> in your donation note, or contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> for more information.</p>
             <div class="text-align" style="margin-bottom: 25px;"><a target="_blank" href="https://donate.kesem.org/fundraise?fcid=766838"><button class="blue-btn btn btn-primary">Donate Now!</button></a></div>
             <img style="margin-bottom: 25px;" src="/img/newsletter/spring2017/disneyland-giveaway.jpg">
         </div>
@@ -70,7 +70,7 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     <div class="row">
         <div class="col-md-10 col-md-offset-1 img-center">
             <h4>Chipotle Profit Share - April 6th in Montclair</h4>
-            <p>Come to the Chipotle on April 6th for the profit share. Chipotle will give us <strong>50%</strong> of the proceeds! All you have to do is eat at Chipotle on April 6th and and show this flyer to the cashier before you pay!</p>
+            <p>Come to the Montclair Chipotle on April 6th for the profit share. Chipotle will give us <strong>50%</strong> of the proceeds! All you have to do is eat at Chipotle on April 6th and and show this flyer to the cashier before you pay!</p>
             <a target="_blank" href="/img/newsletter/spring2017/chipotle.pdf"><img src="/img/newsletter/spring2017/chipotle.jpg"></a>
         </div>
     </div>
