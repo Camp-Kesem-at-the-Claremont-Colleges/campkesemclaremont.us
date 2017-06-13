@@ -1,21 +1,12 @@
 ---
 layout:     post
-title:      "June 2017 Newsletter!"
-subtitle:   "In the days before camp we need your help ensuring everything is ready! Read the latest news!"
-date:       2017-06-15 12:00:00
-author:     "Cookie Monster & Jellybean"
-header-img: "img/newsletter/spring2017/cover.jpg"
+title:      "Template Newsletter!"
+subtitle:   "Subtitle Text!"
+date:       2017-03-02 12:00:00
+author:     "Name of Author(s) go here!"
+header-img: "path/to/img"
 ---
 <style>
-    .space {
-        margin-bottom: 15px;
-    }
-    .text-align {
-        text-align: center;
-    }
-    .margins {
-        margin-bottom: 25px;
-    }
 </style>
 <h1 style="text-align: center;">Hoping you're keeping cool and staying hydrated in the final two months before camp!</h1>
 <p style="text-align: center;">Summer's here and now it's time for campers to start packing their bags! We can't wait to meet everyone at Camp Eaton. But, before that we have a few more things to get done.</p>
