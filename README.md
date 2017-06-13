@@ -1,4 +1,4 @@
-### Camp Kesem at the Claremont Colleges Newsletter - Jekyll Version
+# Camp Kesem at the Claremont Colleges Newsletter - Jekyll Version
 
 
 ## Installation
@@ -10,18 +10,16 @@
 4. Install the Jekyll gem
 `gem install jekyll`
 5. Run the server
-`cd thisRootDirectory/ && jekyll serve --watch`
+```cd thisRootDirectory/ && jekyll serve --watch```
 Then open up your browser and check
 `localhost:4000`
 6. If that doesn't work and you get a load error, make sure bundle is installed.
-`gem install bundler && bundle install`
+```gem install bundler && bundle install```
 Then restart the server
-```
-jekyll serve --watch
-```
+```jekyll serve --watch```
 
 ## How to add posts
-**Duplicate** the `newsletter.example.markdown` file and rename it with the following convention: *YYYY-MM-DD-newsletter.markdown*.
+**Duplicate** the `newsletter.example.markdown` file and rename it with the following convention: `YYYY-MM-DD-newsletter.markdown`.
 Edit the following top entries:
 * title (title displayed on main page and largest header on article)
 * subtitle (one sentence description of what's in the post)
@@ -29,7 +27,7 @@ Edit the following top entries:
 * author
 * header-img (the img path to your cover photo)
 
-If your server is still running check `localhost:4000` and see if there is a new post there.
+If your server is still running check `localhost:4000`. The post should now be available from the main page.
 
 ## What's Included
 
@@ -41,6 +39,10 @@ You can run `jekyll serve --watch` and `grunt watch` at the same time to watch f
 
 ## Acknowledgements
 Using #Clean by StartBootstrap
+
+## Authors
+This template was edited and recreated by [Kevin Cunanan](http://kcunanan.com)
+Feel free to message me if you have any questions!
 
 # campkesemclaremont.us
 Camp Kesem at the Claremont Colleges Newsletter
