@@ -2,7 +2,7 @@
 layout:     post
 title:      "June 2017 Newsletter!"
 subtitle:   "In the days before camp we need your help ensuring everything is ready! Read the latest news!"
-date:       2017-06-15 12:00:00
+date:       2017-06-11 12:00:00
 author:     "Cookie Monster & Jellybean"
 header-img: "img/newsletter/spring2017/cover.jpg"
 ---
@@ -16,64 +16,47 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     .margins {
         margin-bottom: 25px;
     }
+    .birthday-box {
+        border: 10px dashed #046ca3;
+        padding: 25px;
+    }
 </style>
 <h1 style="text-align: center;">Hoping you're keeping cool and staying hydrated in the final two months before camp!</h1>
 <p style="text-align: center;">Summer's here and now it's time for campers to start packing their bags! We can't wait to meet everyone at Camp Eaton. But, before that we have a few more things to get done.</p>
 
+<div class="birthday-box space">
+    <h2 class="section-heading">Happy Birthday to Campers!</h2>
+</div>
+
+
+<!-- TODO: COUNTDOWN TIMER -->
 <div class="green-box space">
     <h2 class="section-heading">Upcoming Events!!</h2>
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
-            <h4>Spring Reunion - March 26th</h4>
-            <p>Spring Reunion is around the corner and Scuba has planned some great activities for the kids! Check out the tentative list below! There will also be an important info session for parents.</p>
-                <ul>
-                    <li>Getting to Know You Bingo</li>
-                    <li>Friends Like Me</li>
-                    <li>Donuts on a String</li>
-                    <li>Nature/Park Scavenger Hunt</li>
-                    <li>Tape Nose Dragon Face</li>
-                    <li>Camouflage</li>
-                    <li>Art Table!</li>
-                </ul>
-            <p>If you need more information, or an evite to the event, please contact <a href="mailto:claremont.outreach@campkesem.org">claremont.outreach@campkesem.org</a>.</p>
+            <h4>Camp! - Sunday July 31st - August 5th</h4>
+            <p>That's right it's finally time for camp! Don't be late because we have some great activities planned!</p>
+            <!-- Picture of Camp Eaton -->
+            <p>If you have questions about camp please contact <a href="mailto:claremont.outreach@campkesem.org">claremont.outreach@campkesem.org</a>.</p>
         </div>
     </div>
 </div>
-<div class="green-box space">
-    <h2 class="section-heading">Final Fundraisers!</h2>
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <h4>Disneyland Giveaway</h4>
-            <img style="margin-bottom: 25px;" src="/img/newsletter/spring2017/disneyland-giveaway.jpg">
-            <p>Papaya and Carrots have organized a fantastic Disneyland Giveway! They're giving away two tickets to Disneyland (tickets are valid for Saturday, April 1st)! Prizes can be picked up on <strong>March 29th</strong> in Vita Nova on Scripps Campus. Winners will be announced on <strong>March 28th at 9pm</strong>. All participants receive a frienship bracelet! If you're interested in participating, <strong>donate $5 and mention "Disneyland Giveaway"</strong> in your donation note, or contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> for more information.</p>
-            <div class="text-align" style="margin-bottom: 25px;"><a target="_blank" href="https://donate.kesem.org/fundraise?fcid=766838"><button class="blue-btn btn btn-primary">Donate Now!</button></a></div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <h4>Blaze Pizza - March 25th in Claremont</h4>
-            <a target="_blank" href="/img/newsletter/spring2017/blaze.pdf"><img style="margin-bottom: 25px;" src="/img/newsletter/spring2017/blaze.jpg"></a>
-            <p>Enjoy a slice of pizza while also contributing funds to Camp Kesem at the Claremont Colleges with our Blaze Pizza Fundraiser! All you have to do is show this flyer to the cashier!</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1 img-center">
-            <h4>Chipotle Profit Share - April 6th in Montclair</h4>
-            <a target="_blank" href="/img/newsletter/spring2017/chipotle.pdf"><img src="/img/newsletter/spring2017/chipotle.jpg"></a>
-            <p>Come to the Montclair Chipotle on April 6th for the profit share. Chipotle will give us <strong>50%</strong> of the proceeds! All you have to do is eat at Chipotle on April 6th and and show this flyer to the cashier before you pay!</p>
-        </div>
-    </div>
+
+<div class="blue-box">
+    <h2 class="section-heading">Camp Kesem Claremont T-Shirt Designs Are Hear!</h2>
 </div>
 
 <div class="margin-b-20">
     <h2 class="section-heading">Coordinator Retreat!</h2>
-    <img src="/img/newsletter/spring2017/coordinators.jpg">
+    <img src="/img/newsletter/june2017/counselor_retreat_2017.jpg">
     <span class="caption text-muted">Back: Glub, Cookie Monster, Carrots, Poofy, Scuba <br> Front: Jellybean, Pogo, Stitch, Carebear, Papaya <br> Not Pictured: Rainy</span>
 </div>
 
+<!-- TODO: Include Kid Friendly Section Here -->
+
 <div class="row margins">
     <div class="col-md-8 col-md-offset-2 left-margin blue-box">
-        <h2 class="section-heading">We've fundraised <span style="font-weight: 800; color: #a4d55d; font-size: 45px; text-decoration: underline;">$13,525</span> so far!</h2>
+        <h2 class="section-heading">We've fundraised <span style="font-weight: 800; color: #a4d55d; font-size: 45px; text-decoration: underline;">$14,200</span> so far!</h2>
         <p>Everyone on the Coordination Board and Counselors have been raising money and holding on-campus fundraisers to make camp happen. We're super excited to announce we've raised over $11,000! But we're still short of $30,000. Help us fundraise by setting up a classy page and sending it to friends and family!</p>
         <img src="/img/newsletter/spring2017/thermometer3.gif">
         <div class="text-align"><h4 class="section-heading-h4">Create Your Own Donation Page!</h4></div>
@@ -82,6 +65,11 @@ header-img: "img/newsletter/spring2017/cover.jpg"
         </p>
     </div>
 </div>
+
+<div>
+    <h2>Help Us Prepare for Camp! Wishlist!</h2>
+</div>
+
 <div class="col-md-12 green-box margins">
     <h2 class="section-heading">New Advisory Board Members!</h2>
     <div class="row">
@@ -91,7 +79,9 @@ header-img: "img/newsletter/spring2017/cover.jpg"
     </div>
     <p> Each year Camp Kesem at the Claremont Colleges relies on our Advisory Board to help us recruit campers and volunteers, raise funds, serve as Kesem ambassadors in the local community. Our Advisory Board members work in fields including philanthropy, medicine, education, youth development, and business. If you are interested in learning more about Advisory Board opportunities, please contact our Directors at <a href="claremont@campkesem.org">claremont@campkesem.org</a>.</p>
 </div>
-<h2 class="section-heading">We are Looking for Sponsorships!</h2>
+
+<h2 class="section-heading">Sponsor Thank You's!</h2>
+<!-- TODO: JPL / Specialized -->
 <p>Camp Kesem at the Claremont Colleges is currently looking for sponsors to donate or help fundraise! If you have any kind of partnership in mind, please send us a message at <a href="mailto:claremont@campkesem.org">claremont@campkesem.org</a>. We look forward to hearing from you!</p>
 <div class="green-box">
     <h2 class="section-heading">Tentative Camp Schedule!</h2>
