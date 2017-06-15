@@ -17,8 +17,16 @@ header-img: "img/newsletter/spring2017/cover.jpg"
         margin-bottom: 25px;
     }
     .birthday-box {
-        border: 10px dashed #046ca3;
+        border-style: solid;
+        border-width: 52px 54px 49px 51px;
+        -moz-border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
+        -webkit-border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
+        -o-border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
+        border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
         padding: 25px;
+    }
+    .space-box {
+
     }
 </style>
 <h1 style="text-align: center;">Hoping you're keeping cool and staying hydrated in the final two months before camp!</h1>
@@ -26,6 +34,12 @@ header-img: "img/newsletter/spring2017/cover.jpg"
 
 <div class="birthday-box space">
     <h2 class="section-heading">Happy Birthday to Campers!</h2>
+    <p>We'd like to say Happy Birthday to all the campers who've had birthdays since last camp!</p>
+    <ul>
+        {% for camper in site.data.birthdays2017 %}
+        <li>{{camper.nickname}} - {{camper.birthday | date: "%B, %d" }}</li>
+        {% endfor %}
+    </ul>
 </div>
 
 
@@ -43,7 +57,9 @@ header-img: "img/newsletter/spring2017/cover.jpg"
 </div>
 
 <div class="blue-box">
-    <h2 class="section-heading">Camp Kesem Claremont T-Shirt Designs Are Hear!</h2>
+    <h2 class="section-heading">Camp Kesem Claremont T-Shirt Designs Are Here!</h2>
+    <img src="/img/newsletter/june2017/camp-design.jpg"/>
+    <img src="/img/newsletter/june2017/shirt-example-design.jpg"/>
 </div>
 
 <div class="margin-b-20">
