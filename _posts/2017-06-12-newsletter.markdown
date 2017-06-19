@@ -67,8 +67,11 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 
 <div class="blue-box">
     <h2 class="section-heading">Camp Kesem Claremont T-Shirt Designs Are Here!</h2>
-    <img src="/img/newsletter/june2017/camp-design.jpg"/>
-    <img src="/img/newsletter/june2017/shirt-example-design.jpg"/>
+    <p></p>
+    <div class="center">
+        <img src="/img/newsletter/june2017/camp-design.jpg"/>
+        <img src="/img/newsletter/june2017/shirt-example-design.jpg"/>
+    </div>
 </div>
 
 <div class="margin-b-20">
