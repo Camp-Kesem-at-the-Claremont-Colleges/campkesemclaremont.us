@@ -6,6 +6,9 @@ date:       2017-06-11 12:00:00
 author:     "Cookie Monster & Jellybean"
 header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 ---
+<link rel="stylesheet" type="text/css" href="{{ "/plugins/slick/slick.css" | prepend: site.baseurl }}"/>
+<link rel="stylesheet" type="text/css" href="{{ "/plugins/slick/slick-theme.css" | prepend: site.baseurl }}"/>
+<script type="text/javascript" src="{{ "/plugins/slick/slick.js" | prepend: site.baseurl }}"></script>
 <style>
     .post-heading span {
         background-color: rgba(0,133,161, 0.4);
@@ -41,17 +44,6 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 <h1 style="text-align: center;">Hoping you're keeping cool and staying hydrated in the final two months before camp!</h1>
 <p style="text-align: center;">Summer's here and now it's time for campers to start packing their bags! We can't wait to meet everyone at Camp Eaton. But, before that we have a few more things to get done.</p>
 
-<div class="birthday-box space">
-    <h2 class="section-heading">Happy Birthday to Campers!</h2>
-    <p>We'd like to say Happy Birthday to all the campers who've had birthdays since last camp!</p>
-    <ul>
-        {% for camper in site.data.birthdays2017 %}
-        <li>{{camper.nickname}} - <strong>{{camper.birthday | date: "%B, %d"}}</strong></li>
-        {% endfor %}
-    </ul>
-</div>
-
-
 <!-- TODO: COUNTDOWN TIMER -->
 <div class="green-box space">
     <h2 class="section-heading">Upcoming Events!!</h2>
@@ -65,14 +57,23 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     </div>
 </div>
 
-<div class="blue-box">
-    <h2 class="section-heading">Camp Kesem Claremont T-Shirt Designs Are Here!</h2>
-    <p></p>
-    <div class="center">
-        <img src="/img/newsletter/june2017/camp-design.jpg"/>
-        <img src="/img/newsletter/june2017/shirt-example-design.jpg"/>
-    </div>
+<h2 class="section-heading">Camp Kesem Claremont T-Shirt Designs Are Here!</h2>
+<p></p>
+<div class="slides">
+    <div><img src="/img/newsletter/june2017/camp-design.jpg"></div>
+    <div><img src="/img/newsletter/june2017/shirt-example-design.jpg"></div>
 </div>
+<script>
+$(function(){
+    $(".slides").slick({
+        dots: true,
+        infinite: true,
+        speed: 200,
+        adaptiveHeight: true,
+        cssEase: 'linear'
+    })
+})
+</script>
 
 <div class="margin-b-20">
     <h2 class="section-heading">Coordinator Retreat!</h2>
@@ -116,31 +117,16 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 <h2 class="section-heading">Sponsor Thank You's!</h2>
 <!-- TODO: JPL / Specialized -->
 <p>Camp Kesem at the Claremont Colleges is currently looking for sponsors to donate or help fundraise! If you have any kind of partnership in mind, please send us a message at <a href="mailto:claremont@campkesem.org">claremont@campkesem.org</a>. We look forward to hearing from you!</p>
-<div class="green-box">
-    <h2 class="section-heading">Tentative Camp Schedule!</h2>
-    <img src="/img/newsletter/november2016/campeaton.jpg">
-    <p>Our operations coordinator, Pogo has been at work planning camp! In fact, she has a tentative schedule for the upcoming week. Each day will have a special theme. Here's a couple exciting activities and themes she has planned!</p>
-    <div class="row">
-        <div class="col-md-6">
-            <h4>Themes</h4>
-            <ul>
-                <li>Gadgets</li>
-                <li>Disguises</li>
-                <li>Spy Prison Break</li>
-                <li>Mission Impossible</li>
-            </ul>
-            <h4>Activities</h4>
-            <ul>
-                <li>Movie Night</li>
-                <li>Outdoor Activities</li>
-                <li>Water Wars</li>
-                <li>Messy Wars</li>
-            </ul>
-            <p>These are just a few of the many activities we have planned! Stay up to date with our <a href="https://www.facebook.com/campkesemclaremont">Facebook</a> and <a href="https://www.instagram.com/campkesemclaremont/">Instagram</a> page to get the latest information on camp!</p>
-        </div>
-        <div class="col-md-6">
-            <img src="/img/newsletter/spring2017/pogo.jpg">
-            <span class="caption text-muted">Operations Coordinator: Pogo!</span>
-        </div>
+
+
+<section class="birthday-box space">
+    <div>
+        <h2 class="section-heading">Happy Birthday to Past Campers!</h2>
+        <p>We'd like to say Happy Birthday to previous campers who've had birthdays since last camp!</p>
+        <ul>
+            {% for camper in site.data.birthdays2017 %}
+            <li>{{camper.nickname}} - <strong>{{camper.birthday | date: "%B, %d"}}</strong></li>
+            {% endfor %}
+        </ul>
     </div>
-</div>
+</section>
