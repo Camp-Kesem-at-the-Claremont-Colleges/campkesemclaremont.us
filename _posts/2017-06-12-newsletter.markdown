@@ -57,6 +57,23 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     .center {
         text-align: center;
     }
+    .checkmark {
+        font-size: 4em;
+        color: green;
+    }
+    .x {
+        font-size: 2em;
+        color: red;
+        top: 10px;
+        left: 5px;
+    }
+    .square {
+        font-size: 3em;
+        color: red;
+    }
+    .item:not(:hover) div {
+        opacity: 0.9;
+    }
 </style>
 <h1 style="text-align: center;">Hoping you're keeping cool and staying hydrated in the final two months before camp!</h1>
 <p style="text-align: center;">Summer's here and now it's time for campers to start packing their bags! We can't wait to meet everyone at Camp Eaton. But, before that we have a few more things to get done.</p>
@@ -143,19 +160,39 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     <h2>Preparing for Camp! How You Can Help!</h2>
     <div class="row">
         <p>Another way you can help us prepare for camp is by sending us supplies we need! Below we have an Amazon wishlist with items we need for camp. Send the wishlist to family and friends and help Camp Kesem out!</p>
+        <div class="row center">
+                <div class="col-md-4">
+                    <h3>Item Title</h3>
+                </div>
+                <div class="col-md-4 center">
+                    <h3>Cost</h3>
+                </div>
+                <div class="col-md-4 center">
+                    <h3>Donated?</h3>
+                </div>
+            </div>
         {% for item in site.data.amazon_wishlist2017 %}
-        <div class="row">
-            <div class="col-md-4">
-                <h3>{{ item.name }}</h3>
-                <img width="150px" src="{{ item.img }}">
+        <a href="{{ item.link }}" class="item" target="_blank">
+            <div class="row margins">
+                <div class="col-md-4">
+                    <h3>{{ item.name }}</h3>
+                    <img width="150px" src="{{ item.img }}">
+                </div>
+                <div class="col-md-4 center">
+                    <h3>{{ item.cost }}</h3>
+                </div>
+                <div class="col-md-4 center">
+                    {% if item.donated == 'true' %}
+                    <div><i class="fa fa-check-square-o checkmark" aria-hidden="true"></i></div>
+                    {% else %}
+                    <div class="fa-stack fa-lg center">
+                        <i class="fa fa-square-o fa-stack-2x square" aria-hidden="true"></i>
+                        <i class="fa fa-close fa-stack-1x x" aria-hidden="true"></i>
+                    </div>
+                    {% endif %}
+                </div>
             </div>
-            <div class="col-md-4">
-                <h3>Cost: {{ item.cost }}</h3>
-            </div>
-            <div class="col-md-4">
-                <h3>Donated? {{ item.donated }}</h3>
-            </div>
-        </div>
+        </a>
         {% endfor %}
         <div class="center">
             <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/14CNDK8VFF7DY"><button class="blue-btn btn btn-primary">Check Out The Full Wishlist!</button></a>
