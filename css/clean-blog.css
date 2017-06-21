@@ -403,8 +403,11 @@ body {
   webkit-tap-highlight-color: #0085a1;
 }
 .navbar-brand img {
-    max-width: 50%;
-    margin-top: -10px;
+  max-width: 50%;
+  margin-top: -10px;
+}
+.navbar-brand img:hover {
+  cursor: pointer;
 }
 .green-box {
     border-radius: 25px;
