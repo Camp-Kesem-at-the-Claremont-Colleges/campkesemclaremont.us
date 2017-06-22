@@ -2,7 +2,7 @@
 layout:     post
 title:      "June 2017 Newsletter!"
 subtitle:   "In the days before camp we need your help ensuring everything is ready! Read the latest news!"
-date:       2017-06-11 12:00:00
+date:       2017-06-21 12:00:00
 author:     "Cookie Monster & Jellybean"
 header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 ---
@@ -28,10 +28,10 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     .birthday-box {
         border-style: solid;
         border-width: 52px 54px 49px 51px;
-        -moz-border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
-        -webkit-border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
-        -o-border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
-        border-image: url(/img/newsletter/june2017/birthday-border-icons.png) 89 91 91 104 repeat;
+        -moz-border-image: url(/img/newsletter/june2017/birthday-border-icons.jpg) 89 91 91 104 repeat;
+        -webkit-border-image: url(/img/newsletter/june2017/birthday-border-icons.jpg) 89 91 91 104 repeat;
+        -o-border-image: url(/img/newsletter/june2017/birthday-border-icons.jpg) 89 91 91 104 repeat;
+        border-image: url(/img/newsletter/june2017/birthday-border-icons.jpg) 89 91 91 104 repeat;
         padding: 25px;
     }
     .space-box {
@@ -74,19 +74,30 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     .item:not(:hover) div {
         opacity: 0.9;
     }
+    .padding-top-15 {
+        padding-top: 15px;
+        clear: both;
+    }
 </style>
 <h1 style="text-align: center;">Hoping you're keeping cool and staying hydrated in the final two months before camp!</h1>
 <p style="text-align: center;">Summer's here and now it's time for campers to start packing their bags! We can't wait to meet everyone at Camp Eaton. But, before that we have a few more things to get done.</p>
 
-<section class="row margins">
-    <div class="col-md-8 col-md-offset-2 left-margin blue-box">
-        <h2 class="section-heading">We've fundraised <span style="font-weight: 800; color: #a4d55d; font-size: 45px; text-decoration: underline;">$14,200</span> so far!</h2>
+<section class="row margins blue-box">
+    <div class="col-md-10 col-md-offset-1 left-margin">
+        <h2 class="section-heading">We've fundraised <span style="font-weight: 800; color: #a4d55d; font-size: 45px; text-decoration: underline;">$19,623</span> so far! See How You Can Help!</h2>
         <p>Counselors and Coordinators alike are still working hard to raise money! Help us get back on track by helping fundraise!</p>
-        <img src="/img/newsletter/spring2017/thermometer3.gif">
+        <img src="/img/newsletter/june2017/thermometer.gif">
         <div class="text-align"><h4 class="section-heading-h4">Create Your Own Donation Page!</h4></div>
-        <p>You can also help by <strong>creating your own donation page</strong>!
+        <p>Our <a href="https://donate.kesem.org/campkesemclaremont">donation page</a> has so many donations and we're so grateful to everyone that's helped out! You can also help by <strong>creating your own donation page</strong>!
         Simply click on <a href="https://donate.kesem.org/events/friends-camp-kesem-at-claremont-colleges-fy-2017/e93166">this fundraising link</a> and click <strong>"Become a Fundraiser"</strong>. You will then be given instructions for completing your donation page profile which can be shared with friends and family! Contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> if you would like assistance!
         </p>
+        <div class="center">
+            <a target="_blank" href="https://donate.kesem.org/campkesemclaremont"><button class="blue-btn btn btn-primary">Help Us Fundraise!</button></a>
+        </div>
+    </div>
+    <div class="center padding-top-15">
+        <h4 class="section-heading-h4">Share Our Facebook Post!</h4>
+        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcampkesemclaremont%2Fposts%2F1570933269615698&width=500" width="500" height="455" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
     </div>
 </section>
 
@@ -94,7 +105,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     <h2 class="section-heading">Upcoming Events!!</h2>
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
-            <h4>Camp! - Sunday July 31st - August 5th</h4>
+            <h4>Camp! - Sunday July 30st - August 4th</h4>
             <p>That's right it's finally time for camp! Don't be late because we have some great activities planned!</p>
             <!-- Picture of Camp Eaton -->
             <p>If you have questions about camp please contact <a href="mailto:claremont.outreach@campkesem.org">claremont.outreach@campkesem.org</a>.</p>
@@ -104,9 +115,14 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 
 <section>
     <h2 class="section-heading">Spring Reunion</h2>
-    <div class="reunion-slide">
-        <div><img src="/img/newsletter/june2017/camp-design.jpg"></div>
-        <div><img src="/img/newsletter/june2017/shirt-example-design.jpg"></div>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <div class="reunion-slide">
+                {% for i in (1..8) %}
+                <div class="center"><img src="/img/newsletter/june2017/reunion{{ i }}.jpg"></div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
     <div class="row">
         <p>We wanted to thank all the families for coming to the Spring Reunion hosted in Claremont! We especially want to thank Stevella Lopez and Scuba for making reunion happen. We were excited to meet so many new campers and also welcome lots of familiar faces back!</p>
@@ -130,7 +146,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
         <p></p>
         <div class="slides">
             <div><img src="/img/newsletter/june2017/camp-design.jpg"></div>
-            <div><img src="/img/newsletter/june2017/shirt-example-design.jpg"></div>
+            <div><img src="/img/newsletter/june2017/camp_kesem_claremont_t-shirt.jpg"></div>
         </div>
         <p>We hope you you love these designs <strong>s'more</strong> than us! Jellybean and Cookie Monster worked hard to make a custom campy logo for the Claremont Colleges Chapter. These designs will be on the back of the camp t-shirts provided at camp.</p>
         <script>
@@ -159,7 +175,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 <section class="margins">
     <h2>Preparing for Camp! How You Can Help!</h2>
     <div class="row">
-        <p>Another way you can help us prepare for camp is by sending us supplies we need! Below we have an Amazon wishlist with items we need for camp. Send the wishlist to family and friends and help Camp Kesem out!</p>
+        <p>Another way you can help us prepare for camp is by helping us get camp supplies donated! We have an <a href="https://www.amazon.com/hz/wishlist/ls/14CNDK8VFF7DY">Amazon wishlist</a> with items we need for camp. We'd love if you could share the wishlist to family and friends and help Claremont out! If someone is interested in donating, please have them mail it to <strong>1030 Columbia Ave, PMB 1233, Claremont CA</strong>! Here's just a few of the items we still need for camp.</p>
         <div class="row center">
                 <div class="col-md-4">
                     <h3>Item Title</h3>
@@ -224,7 +240,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
             <span class="caption text-muted">Hayley Burke</span>
         </div>
     </div>
-    <p>We'd like to welcome three new members to our advisory board! Sara Adler is a member of the Scripps Community. Gretchen Edwalds-Gilbert is a professor at Keck. Amy Marcus Newhall is the Dean of Students at Scripps.</p>
+    <p>The Claremont Chapter would like to welcome three new members to our advisory board! Sara Adler is a member of the Scripps Community. Gretchen Edwalds-Gilbert is a professor at Keck. Amy Marcus Newhall is the Dean of Students at Scripps.</p>
     <p>We especially want to thank <strong>Stevella Lopez</strong> for being extremely active and supportive throughout the school year! Stevella has helped us with most of our on-campus fundraisers by providing extra supplies and even a helping hand. Thank you so much for the helping our chapter succeed! We would love for more people to become advisory board members! Please contact <a href="claremont@campkesem.org">claremont@campkesem.org</a> if you would like to support Camp Kesem at the Claremont Colleges!</p>
 </section>
 
@@ -238,7 +254,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 <section>
     <h2 class="section-heading">Stay Hydrated By <strong>Specialized</strong>!</h2>
     <!-- TODO: JPL / Specialized -->
-    <img src="/img/newsletter/june2017/specialized.png">
+    <a href="http://www.specialized.com/"><img src="/img/newsletter/june2017/specialized.png"></a>
     <p>This year, all our water bottles were generously donated by <a href="http://www.specialized.com/">Specialized</a>! Specialized focuses on delivering the bikes to all kinds of people!</p>
     <blockquote>
     Our mission is simple—to be the brand of choice for discerning riders. Founded on performance and fueled by innovation, our focus on the rider and their needs is our constant. From seasoned pros and weekend warriors, to kids and commuters—if you ride, we’re for you. <br>
