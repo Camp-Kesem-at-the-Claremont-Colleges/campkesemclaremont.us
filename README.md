@@ -1,15 +1,33 @@
-Camp Kesem at the Claremont Colleges Newsletter - Jekyll Version
+# Camp Kesem at the Claremont Colleges Newsletter - Jekyll Version
 
-Using #Clean by StartBootstrap - The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+## Installation
+1. Clone this repository
+2. Install Ruby (>= 2.0.0) using homebrew or chocolatey
+`brew install ruby`
+3. Install Ruby Gems
+`gem update --system`
+4. Install the Jekyll gem
+`gem install jekyll`
+5. Run the server
+```cd thisRootDirectory/ && jekyll serve --watch```
+Then open up your browser and check
+`localhost:4000`
+6. If that doesn't work and you get a load error, make sure bundle is installed.
+```gem install bundler && bundle install```
+Then restart the server
+```jekyll serve --watch```
 
-## Before You Begin
+## How to add posts
+**Duplicate** the `newsletter.example.markdown` file and rename it with the following convention: `YYYY-MM-DD-newsletter.markdown`.
+Edit the following top entries:
+* title (title displayed on main page and largest header on article)
+* subtitle (one sentence description of what's in the post)
+* date (when this should be posted/visible)
+* author
+* header-img (the img path to your cover photo)
 
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
-
-It should look like this:
-`baseurl: ""`
+If your server is still running check `localhost:4000`. The post should now be available from the main page.
 
 ## What's Included
 
@@ -19,9 +37,12 @@ A Grunt environment is also included. There are a number of tasks it performs li
 
 You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
 
-## Support
+## Acknowledgements
+Using #Clean by StartBootstrap
 
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
-=======
+## Authors
+This template was edited and recreated by [Kevin Cunanan](http://kcunanan.com)
+Feel free to message me if you have any questions!
+
 # campkesemclaremont.us
 Camp Kesem at the Claremont Colleges Newsletter
