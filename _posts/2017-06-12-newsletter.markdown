@@ -244,7 +244,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
             <span class="caption text-muted">Hayley Burke</span>
         </div>
     </div>
-    <p>The Claremont Chapter would like to welcome three new members to our advisory board! Sara Adler is a member of the Scripps Community. Gretchen Edwalds-Gilbert is a professor at Keck. Amy Marcus Newhall is the Dean of Students at Scripps.</p>
+    <p>The Claremont Chapter would like to welcome three new members to our advisory board! Sara Adler is a Professor of Italian Studies at Scripps College. Gretchen Edwalds-Gilbert is an Associate Professor of Biology at Scripps College. Amy Marcus Newhall is a Professor of Psychology and Vice President of Academic Affairs and Dean of Faculty at Scripps College. We're extremely lucky to have them all on board!</p>
     <p>We especially want to thank <strong>Stevella Lopez</strong> for being extremely active and supportive throughout the school year! Stevella has helped us with most of our on-campus fundraisers by providing extra supplies and even a helping hand. Thank you so much for the helping our chapter succeed! We would love for more people to become advisory board members! Please contact <a href="claremont@campkesem.org">claremont@campkesem.org</a> if you would like to support Camp Kesem at the Claremont Colleges!</p>
 </section>
 
