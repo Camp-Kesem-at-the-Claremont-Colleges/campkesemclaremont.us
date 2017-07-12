@@ -92,12 +92,12 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
         Simply click on <a href="https://donate.kesem.org/events/friends-camp-kesem-at-claremont-colleges-fy-2017/e93166">this fundraising link</a> and click <strong>"Become a Fundraiser"</strong>. You will then be given instructions for completing your donation page profile which can be shared with friends and family! Contact <a href="mailto:claremont.development@campkesem.org">claremont.development@campkesem.org</a> if you would like assistance!
         </p>
         <div class="center">
-            <a target="_blank" href="https://donate.kesem.org/campkesemclaremont"><button class="blue-btn btn btn-primary">Help Us Fundraise!</button></a>
+            <a target="_blank" href="https://donate.kesem.org/events/friends-camp-kesem-at-claremont-colleges-fy-2017/e93166"><button class="blue-btn btn btn-primary">Help Us Fundraise!</button></a>
         </div>
     </div>
     <div class="center padding-top-15">
         <h4 class="section-heading-h4">Share Our Facebook Post!</h4>
-        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcampkesemclaremont%2Fposts%2F1570933269615698&width=500" width="500" height="455" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcampkesemclaremont%2Fposts%2F1573181739390851&width=500" width="500" height="393" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
     </div>
 </section>
 
@@ -105,7 +105,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     <h2 class="section-heading">Upcoming Events!!</h2>
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
-            <h4>Camp! - Sunday July 30st - August 4th</h4>
+            <h4>Camp! - Sunday, July 30th - Friday, August 4th</h4>
             <p>That's right it's finally time for camp! Don't be late because we have some great activities planned!</p>
             <!-- Picture of Camp Eaton -->
             <p>If you have questions about camp please contact <a href="mailto:claremont.outreach@campkesem.org">claremont.outreach@campkesem.org</a>.</p>
@@ -170,7 +170,11 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
     <p>Back in May, Camp Kesem at the Claremont Colleges went on a trip to Big Bear in order to get counselors ready for camp. We underwent super intense training and danced the night away after it was all over. Just kidding we actually just played board games. We did however focus on several serious topics ranging from bullying, homesickness, empathy, and more! Overall, we feel really prepared for camp and are confident that the kids will love it too!</p>
 </section>
 
-<!-- TODO: Include Kid Friendly Section Here -->
+<section class="green-box">
+    <h2>Find The Karls!</h2>
+    <p>Here's a reminiscent picture from camp of the campers and counselors showing some blue steel. We've placed <strong>10</strong> hidden Karls across the picture! See if you can find them all! <em>Click on the image to zoom in on it!</em></p>
+    <a target="_blank" href="/img/newsletter/june2017/kesem_fun_carls.jpg"><img src="/img/newsletter/june2017/kesem_fun_carls.jpg"></a>
+</section>
 
 <section id="wishlist" class="margins">
     <h2>Preparing for Camp! How You Can Help!</h2>
@@ -232,7 +236,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
             <span class="caption text-muted">Amy Marcus Newhall</span>
         </div>
         <div class="col-md-4 col-md-offset-1">
-            <img src="http://hub.scrippscollege.edu/wp-content/uploads/sites/3/Amy-Marcus-Newhall2-300x300.jpg">
+            <img src="/img/newsletter/june2017/stevella_lopez.jpg">
             <span class="caption text-muted">Stevella Lopez</span>
         </div>
         <div class="col-md-4 col-md-offset-1">
@@ -240,14 +244,14 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
             <span class="caption text-muted">Hayley Burke</span>
         </div>
     </div>
-    <p>The Claremont Chapter would like to welcome three new members to our advisory board! Sara Adler is a member of the Scripps Community. Gretchen Edwalds-Gilbert is a professor at Keck. Amy Marcus Newhall is the Dean of Students at Scripps.</p>
+    <p>The Claremont Chapter would like to welcome three new members to our advisory board! Sara Adler is a Professor of Italian Studies at Scripps College. Gretchen Edwalds-Gilbert is an Associate Professor of Biology at Scripps College. Amy Marcus Newhall is a Professor of Psychology and Vice President of Academic Affairs and Dean of Faculty at Scripps College. We're extremely lucky to have them all on board!</p>
     <p>We especially want to thank <strong>Stevella Lopez</strong> for being extremely active and supportive throughout the school year! Stevella has helped us with most of our on-campus fundraisers by providing extra supplies and even a helping hand. Thank you so much for the helping our chapter succeed! We would love for more people to become advisory board members! Please contact <a href="claremont@campkesem.org">claremont@campkesem.org</a> if you would like to support Camp Kesem at the Claremont Colleges!</p>
 </section>
 
 <section class="space-box clear">
     <div class="">
         <h2 class="section-heading">We're Blasting Off To Camp!</h2>
-        <p>We're excited to announce that Jet Propulsion Laboratory has provided us some supplies to do fun experiments at camp! Stay tuned for more details!</p>
+        <p>We're excited to announce that Jet Propulsion Laboratory has provided us some supplies to do fun science and space experiments at camp! Stay tuned for more details!</p>
     </div>
 </section>
 
