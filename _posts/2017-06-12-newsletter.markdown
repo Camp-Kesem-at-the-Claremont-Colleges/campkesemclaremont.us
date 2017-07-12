@@ -172,7 +172,7 @@ header-img: "img/newsletter/june2017/counselor_retreat_2017_banner.jpg"
 
 <!-- TODO: Include Kid Friendly Section Here -->
 
-<section class="margins">
+<section id="wishlist" class="margins">
     <h2>Preparing for Camp! How You Can Help!</h2>
     <div class="row">
         <p>Another way you can help us prepare for camp is by helping us get camp supplies donated! We have an <a href="https://www.amazon.com/hz/wishlist/ls/14CNDK8VFF7DY">Amazon wishlist</a> with items we need for camp. We'd love if you could share the wishlist to family and friends and help Claremont out! If someone is interested in donating, please have them mail it to <strong>1030 Columbia Ave, PMB 1233, Claremont CA</strong>! Here's just a few of the items we still need for camp.</p>
